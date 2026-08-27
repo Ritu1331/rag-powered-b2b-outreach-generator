@@ -1,8 +1,9 @@
 streamlit
 langchain
-langchain-core
 langchain-groq
-python-dotenv
+langchain-community
+chromadb
+pandas
 requests
 beautifulsoup4
-pandas
+python-dotenv
