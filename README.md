@@ -5,8 +5,6 @@ An AI-powered application that automatically extracts job information from a job
 🔗 **Live Demo:**  
 https://rag-powered-b2b-outreach-generator-ekmy58wtishtuvpnysmwju.streamlit.app/
 
-🔗 **GitHub:**  
-https://github.com/Ritu1331/rag-powered-b2b-outreach-generator
 
 ---
 
@@ -723,17 +721,6 @@ This demonstrates how **LLMs + RAG + Vector Databases** can be combined to build
 
 ---
 
-# 👨‍💻 Author
 
-**Ritu**
-
-GitHub:  
-https://github.com/Ritu1331
-
-Project:  
-https://github.com/Ritu1331/rag-powered-b2b-outreach-generator
-
-Live Demo:  
-https://rag-powered-b2b-outreach-generator-ekmy58wtishtuvpnysmwju.streamlit.app/
 
 ⭐ If you find this project useful, consider giving the repository a star!
