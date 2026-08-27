@@ -100,10 +100,6 @@ The complete workflow is:
 
 ---
 
-# 🏗️ System Architecture
-
-![System Architecture](imgs/architecture.png)
-
 The application consists of several major components.
 
 ### 1. User Interface
